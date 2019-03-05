@@ -29,7 +29,6 @@ $(function() {
           Field1: message,
           idstamp: "YTx80X5VfjJljB2iYe8vi47+IrDvgo8Yv5NAzRrWr2Q="
         },
-        dataType: 'jsonp',
         cache: false,
         success: function() {
           // Success message
